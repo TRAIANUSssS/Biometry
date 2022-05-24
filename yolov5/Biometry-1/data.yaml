@@ -1,0 +1,9 @@
+names:
+- Face
+- face
+- facerotation
+- facerotationtrack_idkeyframe
+- facetrack_idkeyframe
+nc: 5
+train: Biometry-1/train/images
+val: Biometry-1/valid/images
